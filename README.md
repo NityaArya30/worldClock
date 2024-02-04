@@ -15,7 +15,7 @@ The World Clock Project is a versatile and user-friendly application designed to
 This project aims to simplify global time management, catering to individuals with international connections or those who simply want to stay informed about different time zones.
 
 ## Links to the Demo Project Respectively:
-https://nityaaarya30.github.io/World-Clock/
+https://nityaarya30.github.io/worldClock/
 
 ## Contribution 
 Do Star my Project and do contribute to it.
